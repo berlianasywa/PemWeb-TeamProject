@@ -1,2 +1,3 @@
 # PemWeb-TeamProject
-Untuk melengkapi tugas Pemrograman Website
+
+Web apikasi 'HADID' adalah website toko pakaian online untuk merek pakaian HADID
