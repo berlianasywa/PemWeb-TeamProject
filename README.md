@@ -1,2 +1,2 @@
 # PemWeb-TeamProject
-Pemrograman website team project
+Untuk melengkapi tugas Pemrograman Website
